@@ -25,7 +25,7 @@ I may have underestimated the task, but the end result is incredibly cool!\
 ## A Bit of History
 
 The project started as a silly idea that, by design, didn’t work.\
-As usual, I was having fun coming up with ridiculous ideas to code in my favorite game engine, *Godot*, when I suddenly decided to recreate the sound of a car engine by synthesizing it. It seemed like a small, accessible project—at least until I realized how hard it was to make something sound like a real car engine!
+As usual, I was having fun coming up with ridiculous ideas to code in my favorite game engine, *Godot*, when I suddenly decided to recreate the sound of a car engine by synthesizing it. A really small accessible project I must say, and indeed it wasn't much before I realised how hard it was to make something sound like a car engine!
 
 At first, my code couldn’t synthesize anything but a weird, pitch-changing fart sound. But I was learning a lot along the way. Failing gave me insights into how sound might work, and trying again helped me confirm my hypotheses. I started to learn new things about sound! However, the project seemed doomed to fail. It wasn’t even a real project at that stage, so I assumed I’d eventually delete the folder to free up some space on my PC. But surprisingly, that didn’t happen!
 
